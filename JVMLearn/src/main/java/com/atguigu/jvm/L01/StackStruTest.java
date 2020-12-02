@@ -1,4 +1,4 @@
-package com.atguigu.jvm.one;
+package com.atguigu.jvm.L01;
 
 public class StackStruTest {
 
